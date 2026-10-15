@@ -1,0 +1,29 @@
+{
+    "token": "MTU1OTY2Mjk3Mjg1MzQyNDE4OA.Gsfz6C.QmQO3x8OPbqgE95l8xcxTS6vilZM5__kBV2vFs",
+    "guild_id": "1478813656845385849",
+    "tier_result_channel_id": "1559683108423606412",
+    "yetkili_role_id": "1559665551729623181",
+    "server_name": "mc.rushcraft.net",
+    "thumbnail_url": "",
+    "embed_color": "0x2b2d31",
+
+    "sira_kanallari": {
+        "TrapPvP": "1559663596068282438",
+        "ElytraPvP": "1559663808123773009"
+    },
+
+    "kategoriler": [
+        "TrapPvP",
+        "ElytraPvP",
+        "SwordPvP",
+        "AxePvP",
+        "UHC",
+        "BuildUHC",
+        "SMP",
+        "PotPvP",
+        "DiamondPvP",
+        "SoupPvP"
+    ],
+
+    "tierler": ["LT1", "LT2", "LT3", "LT4", "LT5", "HT1", "HT2", "HT3", "HT4", "HT5"]
+}

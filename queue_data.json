@@ -1,0 +1,30 @@
+{
+    "TrapPvP": {
+        "is_open": true,
+        "message_id": 1560303506769055851,
+        "channel_id": 1559663596068282438,
+        "list": [
+            {
+                "user_id": 1432046309522800670,
+                "mc_name": "pumpaci31",
+                "server": "mc.rushcraft.net",
+                "status": "waiting",
+                "ticket_id": null
+            }
+        ]
+    },
+    "ElytraPvP": {
+        "is_open": true,
+        "message_id": 1560311369520255131,
+        "channel_id": 1559663808123773009,
+        "list": [
+            {
+                "user_id": 1517558463671177278,
+                "mc_name": "nonamehaklayan",
+                "server": "mc.rushcraft.net",
+                "status": "testing",
+                "ticket_id": 1560246093932011583
+            }
+        ]
+    }
+}
